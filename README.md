@@ -1,9 +1,12 @@
-<img src="https://user-images.githubusercontent.com/77352069/145713326-e33d170b-de4d-4fa2-a227-fa748ede7ac1.jpeg" width=100% alt="Hi there 👋">
+<img src="https://user-images.githubusercontent.com/77352069/145713326-e33d170b-de4d-4fa2-a227-fa748ede7ac1.jpeg" alt="Hi there 👋">
 
-I'm a 3rd Year CSE Undergraduate at Indian Institute of Technology Ropar
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-solanki2001&theme=radical)](https://github.com/dhruv-solanki2001/github-readme-stats)
 
-<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200" align="right">
+Hi 👋, I'm a 3rd Year CSE Undergraduate at Indian Institute of Technology Ropar
 
+<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+
+<!-- 
 **dhruv-solanki2001/dhruv-solanki2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+ -->
