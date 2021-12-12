@@ -1,8 +1,11 @@
-<img src="https://user-images.githubusercontent.com/77352069/145713326-e33d170b-de4d-4fa2-a227-fa748ede7ac1.jpeg" alt="Hi there 👋">
+
+Hello 👋
+
+<img src="https://user-images.githubusercontent.com/77352069/145713326-e33d170b-de4d-4fa2-a227-fa748ede7ac1.jpeg" alt="Hi there 👋" align="left" height="205px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-solanki2001&theme=radical)](https://github.com/dhruv-solanki2001/github-readme-stats)
 
-Hi 👋, I'm a 3rd Year CSE Undergraduate at Indian Institute of Technology Ropar
+
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
