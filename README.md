@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Header image](https://raw.githubusercontent.com/dhruv-solanki2001/dhruv-solanki2001/master/Image/Hello.jpeg)
 <!--
 **dhruv-solanki2001/dhruv-solanki2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
