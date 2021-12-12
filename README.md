@@ -1,7 +1,9 @@
-<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" height="200">![Hello](https://user-images.githubusercontent.com/77352069/145713326-e33d170b-de4d-4fa2-a227-fa748ede7ac1.jpeg)
+<img src="https://user-images.githubusercontent.com/77352069/145713326-e33d170b-de4d-4fa2-a227-fa748ede7ac1.jpeg" width=100% alt="Hi there 👋">
 
-<!--
-### Hi there 👋
+I'm a 3rd Year CSE Undergraduate at Indian Institute of Technology Ropar
+
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200" align="right">
+
 **dhruv-solanki2001/dhruv-solanki2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
