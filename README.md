@@ -1,5 +1,7 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" height="200">![Hello](https://user-images.githubusercontent.com/77352069/145713326-e33d170b-de4d-4fa2-a227-fa748ede7ac1.jpeg)
+
 <!--
+### Hi there 👋
 **dhruv-solanki2001/dhruv-solanki2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
